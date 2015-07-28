@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+remote repository gives possibility to cooperate with other team members on project (collaborate and make commits for several people with one sorce code origin)
